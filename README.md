@@ -24,8 +24,8 @@ See [Eigen](https://eigen.tuxfamily.org/) for more information about Eigen.
 * make clean
 
 ## Run
-* ./main_g liquid_density gas_density intial_pressure gamma scale out_file_name
+* ./main_g liquid_density gas_density intial_pressure gamma scale output_file_name
   * Example: ./main_g 1000.0 1.0 1.0e5 1.4 1.0 case_1_s.ascii
 
-* ./main_m cell_number out_file_name
+* ./main_m cell_number output_file_name
   * Example: ./main_m 200 case_5_200.ascii
