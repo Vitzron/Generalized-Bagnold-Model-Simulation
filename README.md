@@ -12,7 +12,7 @@ Generalized Bagnold Model Simulation with a Pressure-based Numerical Scheme
 * Brosset L, Ghidaglia J-M, Le Tarnec L, et al. Generalized bagnold model[C]//The Twenty-third International Offshore and Polar Engineering Conference. Anchorage, Alaska: International Society of Offshore and Polar Engineers, 2013.
 * Yabe T, Wang P-Y. Unified numerical procedure for compressibleand incompressible fluid[J]. Journal of the Physical Society of Japan, 1991, 60(7): 2105–2108.
 * Yabe T, Aoki T. A universal solver for hyperbolic equations by cubic-polynomial interpolation i. one-dimensional solver[J]. Computer Physics Communications, 1991, 66(2–3): 219–232.
-* Wei Z, Jiang Q, Nie S. A pressure-based numerical scheme for compressible–incompressible two-phase flows. Int J Numer Meth Fluids. 2021;1–16. https://doi.org/10.1002/fld.5029
+* Wei, Z, Jiang, Q, Nie, S. A pressure-based numerical scheme for compressible–incompressible two-phase flows. Int J Numer Meth Fluids. 2021; 3215- 3230. doi:10.1002/fld.5029
 
 ## Eigen package REQUIRED!
 
